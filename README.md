@@ -15,4 +15,4 @@
   - [GooglePlaces SDK](https://developers.google.com/maps/documentation/places/ios-sdk/config#install-the-xcframework)
 
 ## License
-The **Google Maps iOS SDK** and **Google Places iOS SDK** libraries are the property of Google and are subject to *Google's Terms of Service*. See [LICENSE.google](https://github.com/Mindera/GoogleMaps-SP/blob/main/LICENSE.google) for details.
+The **Google Maps iOS SDK** and **Google Places iOS SDK** libraries are the property of Google and are subject to *Google's Terms of Service*. See [LICENSE.google](https://github.com/jonathanjr3/GoogleMaps-SP/blob/main/LICENSE.google) for details.
