@@ -5,24 +5,64 @@ import PackageDescription
 
 let package = Package(
     name: "GoogleMaps-SP",
-    products: [
-        // Products define the executables and libraries a package produces, and make them visible to other packages.
-        .library(
-            name: "GoogleMaps-SP",
-            targets: ["GoogleMaps-SP"]),
+    platforms: [
+        .iOS(.v13)
     ],
-    dependencies: [
-        // Dependencies declare other packages that this package depends on.
-        // .package(url: /* package url */, from: "1.0.0"),
+    products: [
+        .library(
+            name: "GoogleMapsBase",
+            targets: [
+                "GoogleMapsBase"
+            ]
+        ),
+        .library(
+            name: "GoogleMapsCore",
+            targets: [
+                "GoogleMapsCore"
+            ]
+        ),
+        .library(
+            name: "GoogleMaps",
+            targets: [
+                "GoogleMaps",
+                "GoogleMapsBase",
+                "GoogleMapsCore"
+            ]
+        ),
+        .library(
+            name: "GoogleMapsM4B",
+            targets: [
+                "GoogleMapsM4B"
+            ]
+        ),
+        .library(
+            name: "GooglePlaces",
+            targets: [
+                "GooglePlaces",
+                "GoogleMapsBase"
+            ]
+        )
     ],
     targets: [
-        // Targets are the basic building blocks of a package. A target can define a module or a test suite.
-        // Targets can depend on other targets in this package, and on products in packages this package depends on.
-        .target(
-            name: "GoogleMaps-SP",
-            dependencies: []),
-        .testTarget(
-            name: "GoogleMaps-SPTests",
-            dependencies: ["GoogleMaps-SP"]),
+        .binaryTarget(
+            name: "GoogleMaps",
+            path: "Sources/Frameworks/GoogleMaps.xcframework"
+        ),
+        .binaryTarget(
+            name: "GoogleMapsBase",
+            path: "Sources/Frameworks/GoogleMapsBase.xcframework"
+        ),
+        .binaryTarget(
+            name: "GoogleMapsCore",
+            path: "Sources/Frameworks/GoogleMapsCore.xcframework"
+        ),
+        .binaryTarget(
+            name: "GoogleMapsM4B",
+            path: "Sources/Frameworks/GoogleMapsM4B.xcframework"
+        ),
+        .binaryTarget(
+            name: "GooglePlaces",
+            path: "Sources/Frameworks/GooglePlaces.xcframework"
+        )
     ]
 )
