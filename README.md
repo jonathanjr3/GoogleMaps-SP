@@ -1,5 +1,5 @@
 # GoogleMaps Swift Package
-### Compatible with Apple Silicon Mac (ie: Runs in Simulators without need of Rosetta)
+### Compatible with Apple Silicon Mac (i.e: Runs in Simulators without the need of Rosetta)
 
 ## Requirements
 * [iOS 13.0](https://wikipedia.org/wiki/IOS_13) or later.
@@ -8,7 +8,7 @@
 ## Installation
 - Add this in your iOS project:
     Go to Xcode -> File -> Add Packages and then paste this link in the repo url searchbox:
-    `https://github.com/jonathanjr3/GoogleMaps-SP.git`
+    `https://github.com/jonathanjr3/GoogleMaps-SP`
 
 ## Download official XCFrameworks from Google:
   - [GoogleMaps SDK](https://developers.google.com/maps/documentation/ios-sdk/config#install-the-xcframework)
