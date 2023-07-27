@@ -6,7 +6,7 @@
 	<dict>
 		<key>GooglePlaces.bundle/Info.plist</key>
 		<data>
-		GOAD3kKLH2H3j5ta4/0dNdiRwL8=
+		6v3CYy7e6CvXURtirbtDNxq574M=
 		</data>
 		<key>GooglePlaces.bundle/ar.lproj/GooglePlaces.strings</key>
 		<dict>
@@ -305,7 +305,7 @@
 		</dict>
 		<key>GooglePlaces.bundle/oss_licenses_places.txt.gz</key>
 		<data>
-		2lYfYrWO9sG5VkvB9nj46bHFnhs=
+		U5yLwOPI0qhlYnNRzOYKCoMcvxw=
 		</data>
 		<key>GooglePlaces.bundle/pl.lproj/GooglePlaces.strings</key>
 		<dict>
@@ -523,15 +523,15 @@
 		</data>
 		<key>Headers/GMSOpeningHours.h</key>
 		<data>
-		OO0NZ4VcEavrajA1PbefnHHwL/U=
+		mY9Z9lllgPE1pCIJPavC2mFJH0Y=
 		</data>
 		<key>Headers/GMSPlace.h</key>
 		<data>
-		PFNKxpbMADoA2YSsaYjjL+UNvQo=
+		ASj+8RFF6irkdordoPxKgYd7xzc=
 		</data>
 		<key>Headers/GMSPlaceFieldMask.h</key>
 		<data>
-		ssbOnLbpyDyK/Xr926mQo5bYffE=
+		9psDVi8NBbdthvbezg43Soc9AIw=
 		</data>
 		<key>Headers/GMSPlaceLikelihood.h</key>
 		<data>
@@ -563,7 +563,7 @@
 		</data>
 		<key>Headers/GMSPlacesClient.h</key>
 		<data>
-		u7+Sp24+lCV0dkdt17yldvN+OYM=
+		2Hx/lcDRiUw00D/a+2oYw7vm2Fo=
 		</data>
 		<key>Headers/GMSPlacesDeprecationUtils.h</key>
 		<data>
@@ -579,11 +579,11 @@
 		</data>
 		<key>Headers/GooglePlaces.h</key>
 		<data>
-		fBQpAC8vAlEEhrc4xPsL8+W8ncM=
+		u3SdpA7EApvTVUwhARkdIVMnCEE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rlgUX8u72a+1yxKZaHnwGZxIrk4=
+		bz+cLfxQZ8GdEy2V+91Ch9THEnk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -596,7 +596,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q0yEbyFxoK4cjVSu0y1U3rGQMy/hKGY1HY4V1nXp1yo=
+			jMmWyzlDu+FApkrPuSMkqZhdJGJWGJpg0UxqmlJbk2Q=
 			</data>
 		</dict>
 		<key>GooglePlaces.bundle/ar.lproj/GooglePlaces.strings</key>
@@ -910,7 +910,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IcdbX3zTVWKvc/1D5cLZ8N5q/bIMO14MS4w8iNPGZ3M=
+			tWy86Xr0RYeUUGnOOPCSrbBiPay7G0GHba+0IfvWIcU=
 			</data>
 		</dict>
 		<key>GooglePlaces.bundle/pl.lproj/GooglePlaces.strings</key>
@@ -1170,21 +1170,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOhk0nsdDstNNCDzx5vfZ9IG9Y3o4yLh1ySS8iwhwI8=
+			1gIaFcCBr0j/0p2/hoY9wc157Gm93AoOOXo6/xYkKqA=
 			</data>
 		</dict>
 		<key>Headers/GMSPlace.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IDcQLcU3Qd9IM3OjSb7OyFsd/VAnqDoJeERajmE1nPw=
+			JDK1UxAh15iW12FbI+Tl+A1tzWQnOxduJghEYJilUwE=
 			</data>
 		</dict>
 		<key>Headers/GMSPlaceFieldMask.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ryXIPxHkQmVfWFBChVikP8R9n94n1tlspstuqnA7Pag=
+			7+B2KPieuFMnT4uH326d33E4XNg1Qfc74n3CeG9pgqw=
 			</data>
 		</dict>
 		<key>Headers/GMSPlaceLikelihood.h</key>
@@ -1240,7 +1240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EnpxKiHtvrFz/zR9lKRjl9vy9j+mC2k+qCu2C1+jY9U=
+			s/oB7DFP+IkWFQV+ODUTV8eOivrBTzhaatMREr/wBI0=
 			</data>
 		</dict>
 		<key>Headers/GMSPlacesDeprecationUtils.h</key>
@@ -1268,7 +1268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mi+xeFeaBhExibE8AUy2fQZKgYYfmUPkKquX1N8srcU=
+			cuGdk0/5mBMSietUkDMfc65a80lnrbgRTERDQ70qrZk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
