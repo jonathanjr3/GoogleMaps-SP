@@ -2,7 +2,7 @@
 ### Compatible with Apple Silicon Mac (i.e: Runs in Simulators without the need of Rosetta)
 
 ## Requirements
-* [iOS 13.0](https://wikipedia.org/wiki/IOS_13) or later.
+* [iOS 14.0](https://wikipedia.org/wiki/IOS_14) or later.
 * [Xcode 14.0](https://developer.apple.com/xcode) or later.
 
 ## Installation
