@@ -6,7 +6,7 @@
 	<dict>
 		<key>GooglePlaces.bundle/Info.plist</key>
 		<data>
-		6v3CYy7e6CvXURtirbtDNxq574M=
+		khXX8IH7H2vhmK6Meg3mpKn/Rx8=
 		</data>
 		<key>GooglePlaces.bundle/ar.lproj/GooglePlaces.strings</key>
 		<dict>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ugPc+rhsPJA/Pp/Gghnp5Y40la4=
+			X9lAmtzDnYUS0cUiWGLbi7G04NM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -523,7 +523,7 @@
 		</data>
 		<key>Headers/GMSOpeningHours.h</key>
 		<data>
-		mY9Z9lllgPE1pCIJPavC2mFJH0Y=
+		GtMQgl6b53xlVgPwiPVwzLOaLww=
 		</data>
 		<key>Headers/GMSPlace.h</key>
 		<data>
@@ -553,6 +553,10 @@
 		<data>
 		/FYe8aqE+MypVAYJadoxymndQDo=
 		</data>
+		<key>Headers/GMSPlaceSpecialDay.h</key>
+		<data>
+		Y/woj86JmRcmWuHlJMiw2NnUOq4=
+		</data>
 		<key>Headers/GMSPlaceTypes.h</key>
 		<data>
 		viNGnTfPUD47wgqkLcWyXWd9oHE=
@@ -563,7 +567,7 @@
 		</data>
 		<key>Headers/GMSPlacesClient.h</key>
 		<data>
-		2Hx/lcDRiUw00D/a+2oYw7vm2Fo=
+		+kI4Tlm4aXaJDLDXlJjMWU464+4=
 		</data>
 		<key>Headers/GMSPlacesDeprecationUtils.h</key>
 		<data>
@@ -583,7 +587,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bz+cLfxQZ8GdEy2V+91Ch9THEnk=
+		fGpxMU/3NicFVCAxM7qlVddr04E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -596,7 +600,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jMmWyzlDu+FApkrPuSMkqZhdJGJWGJpg0UxqmlJbk2Q=
+			EeFUv0k6VtmLLudEzc8ig6YyW3bJOBM3hnA787GXszk=
 			</data>
 		</dict>
 		<key>GooglePlaces.bundle/ar.lproj/GooglePlaces.strings</key>
@@ -658,7 +662,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Mri6yRz4JMjn7dKelB6Dpd2XHjr/+UHvxj2Lres/QQ=
+			NJOhGSIK79c24c1sfhOBFQgNIcVix/fl1HYvXJlwnR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1170,7 +1174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1gIaFcCBr0j/0p2/hoY9wc157Gm93AoOOXo6/xYkKqA=
+			WJKkulK/Vnl4v3dpUCgzGyd99OjcNPJWKyyzKKncdSY=
 			</data>
 		</dict>
 		<key>Headers/GMSPlace.h</key>
@@ -1222,6 +1226,13 @@
 			ssIVYeIi3MpRWm3zKB2WrIedeR/pgtPSEgyCXGGx8Ao=
 			</data>
 		</dict>
+		<key>Headers/GMSPlaceSpecialDay.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NRAk/v2eHxdu8fuFKd+GgboLvtSqPN9aGkjJCHAdkU0=
+			</data>
+		</dict>
 		<key>Headers/GMSPlaceTypes.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1240,7 +1251,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s/oB7DFP+IkWFQV+ODUTV8eOivrBTzhaatMREr/wBI0=
+			ISVhX5zU1CMA9vrp5qyve701HCcZadZ06LTe3gmXtUw=
 			</data>
 		</dict>
 		<key>Headers/GMSPlacesDeprecationUtils.h</key>
