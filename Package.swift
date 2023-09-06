@@ -87,7 +87,7 @@ let googleMapsM4BBinaryTarget = Target.binaryTarget(name: "GoogleMapsM4B", path:
 let package = Package(
     name: "GoogleMaps-SP",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v14)
     ],
     products: [
         .library(
