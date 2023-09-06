@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
 		<data>
-		alf+JQ9qfbrBJzB/qvhfk8ggb2I=
+		+SdbzNPhdx+DGxCAkXasnj7DCTI=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSShaders.metallib</key>
 		<data>
-		ZZh5VdcJ6tkqlicmPg0AEyrDleo=
+		H9n/jW5dZm7Dw5FoytwmGWzzjns=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSShadersSim.metallib</key>
 		<data>
-		1GZDDJKdL+6m5M0AHkuRG4y/ddo=
+		CoTSwIxD33KsGI0RsHfaOS18ghQ=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
 		<data>
-		kP+iOOInwpFp2v3tr4W6MCtSMLQ=
+		B+eq8AJGerpTTX5k4j3Ye4EYAjI=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
 		<data>
@@ -751,7 +751,7 @@
 		</dict>
 		<key>GoogleMaps.bundle/Info.plist</key>
 		<data>
-		y3GElDSPMFuagQy4mA069/Ff2Oo=
+		NO0MZ/U5We+FKGV2/ocfEgoE9Kg=
 		</data>
 		<key>GoogleMaps.bundle/bubble_left.png</key>
 		<data>
@@ -791,7 +791,7 @@
 		</data>
 		<key>GoogleMaps.bundle/oss_licenses_maps.txt.gz</key>
 		<data>
-		tMSDQuByPwU2qV0tQeovRw2U4RA=
+		M3S71xCygB3vAtyK0dbLPmxWiss=
 		</data>
 		<key>Headers/GMSAccessibilityLabels.h</key>
 		<data>
@@ -800,6 +800,10 @@
 		<key>Headers/GMSAddress.h</key>
 		<data>
 		1d7hsELBlCYkaL90izB0Mve9Cp0=
+		</data>
+		<key>Headers/GMSAdvancedMarker.h</key>
+		<data>
+		jMnU5H5GvNcYUE2QFhTt7DZngMI=
 		</data>
 		<key>Headers/GMSCALayer.h</key>
 		<data>
@@ -817,9 +821,25 @@
 		<data>
 		FZ+rnmTBjekcOnB4/Bpg2tYMQnU=
 		</data>
+		<key>Headers/GMSCollisionBehavior.h</key>
+		<data>
+		96AVJGFHL+N7XQd1B+EfEpE/9BU=
+		</data>
 		<key>Headers/GMSCoordinateBounds+GoogleMaps.h</key>
 		<data>
 		DyeLyy/NUTrPVOZlXR3ornAwCzk=
+		</data>
+		<key>Headers/GMSFeature.h</key>
+		<data>
+		XyKzdVc73tZRH9+WQmD3F/XJJ74=
+		</data>
+		<key>Headers/GMSFeatureLayer.h</key>
+		<data>
+		NPr3fS/nwiHCyYmPggffyW0cGfs=
+		</data>
+		<key>Headers/GMSFeatureStyle.h</key>
+		<data>
+		T68i/r9BMWK0QV+JPEQaAT7z+Go=
 		</data>
 		<key>Headers/GMSGeocoder.h</key>
 		<data>
@@ -863,7 +883,7 @@
 		</data>
 		<key>Headers/GMSMapView.h</key>
 		<data>
-		yKa5xbNsum303Pl9U4Giv51yxYo=
+		h0oHWyevG7cUxsquunjpzzyGnNo=
 		</data>
 		<key>Headers/GMSMarker.h</key>
 		<data>
@@ -929,6 +949,22 @@
 		<data>
 		LRrLe3Qjp8Hx14HJHaWzSP42mQo=
 		</data>
+		<key>Headers/GMSPinImage.h</key>
+		<data>
+		ucainAicZQcVe5YkK9AOfVEFnEY=
+		</data>
+		<key>Headers/GMSPinImageGlyph.h</key>
+		<data>
+		MXzGz64irx3B73VgaqJo/7LgbR8=
+		</data>
+		<key>Headers/GMSPinImageOptions.h</key>
+		<data>
+		5tMGrOib2N9CaC+9xqFlISgegfM=
+		</data>
+		<key>Headers/GMSPlaceFeature.h</key>
+		<data>
+		RVt1/9OHaEhnEFhgKgaxkPokrGI=
+		</data>
 		<key>Headers/GMSPolygon.h</key>
 		<data>
 		g5/G25FVzdxLZF9YeTcuc/4RpeE=
@@ -983,7 +1019,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+8ZXWoT7s5ALCjibngxAeGvaKvk=
+		+DT8dAtrR9gGu+JIZNGH35ruJOk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1024,7 +1060,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mh7YmcoSuK08QjJkY0mIo8EWXt94bMRF8Xeoy/jj5nI=
+			ua/Wl7HjODpxIVDWHdmFkw6F3ByLBLKGfCL0Wek5zLA=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
@@ -1087,14 +1123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3FquUogokzKPA8hUXgE+Jnm++3ykjATBGGplMtv8VXI=
+			NyPZI5nTouTI/1J6dGwTo7pQZDQYx+TBiYSaKF+DlcQ=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSShadersSim.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CjWkE9/gSeeGZ94cLVC1RS2GGhogBwEXw5C3Pausk98=
+			USppVtrL4nX0IeLwiOI6CdU2FjlHTe64f7eNYQYQxpE=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
@@ -1122,7 +1158,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zJCGQ411c/exbP1LFU5Ji8fiYsq7JMDlUjISxmt+GMs=
+			JTs4TaqX9bieP2zFl71i3IkQ2FQ//rg9vj9AnBZgZ40=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
@@ -1969,7 +2005,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EER6pKN1Qc370XeaZqZ2j3RNRqzI2ARWbASSKcirvcM=
+			ktwLTd0LdY+56XeiH8xavCc8lwHvLDVHAGqZyctx3cE=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/bubble_left.png</key>
@@ -2039,7 +2075,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			guVz3FWTT86istjZsi0d7Njio24YaxtUKKRfWrdZ33g=
+			CwKYXa289XNXtfvAS3VQYKhTOqkkNL/LDtNqvcmqPew=
 			</data>
 		</dict>
 		<key>Headers/GMSAccessibilityLabels.h</key>
@@ -2054,6 +2090,13 @@
 			<key>hash2</key>
 			<data>
 			JC3to41a+3N+y7uNHsFlo1/yYVQ57eU2CgvKoSuijbI=
+			</data>
+		</dict>
+		<key>Headers/GMSAdvancedMarker.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4+RwLkYYVnaYbGW4M3HyshK0+YTrKtllPovZE8p6i6E=
 			</data>
 		</dict>
 		<key>Headers/GMSCALayer.h</key>
@@ -2084,11 +2127,39 @@
 			qXAoANWDa4EPDMEgc8LI4O2d5TaxAI6UXFULo5wLEKI=
 			</data>
 		</dict>
+		<key>Headers/GMSCollisionBehavior.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y9L7irx3weIUl5bY9NkqVwmN3g5nqnB8jYbBMVkYMHw=
+			</data>
+		</dict>
 		<key>Headers/GMSCoordinateBounds+GoogleMaps.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			cI6aU8Rv+KgdCv9VYPowFUoeU2qsoIC9RONnNeSL9QA=
+			</data>
+		</dict>
+		<key>Headers/GMSFeature.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oMIrgfHQQAvpMJbcuD/9SX0j12a3fqoXY8pGMO+KDXM=
+			</data>
+		</dict>
+		<key>Headers/GMSFeatureLayer.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tO7MkTS+mNOeEbnMeO3eIcZAKcNaZmItngVYjMLNP9Q=
+			</data>
+		</dict>
+		<key>Headers/GMSFeatureStyle.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Fqt5nKsPQrHOs+2tU68aXdzlB5JrYEITY1aTjbWgR+Q=
 			</data>
 		</dict>
 		<key>Headers/GMSGeocoder.h</key>
@@ -2165,7 +2236,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+UgBUyzJ4hk7s/3o9K6KIc5lsYkxFk+vMGVDuutzAEo=
+			Qhrii3q5fEw5W9wySIGSV9GT4deys7oCKuNGJJ8rkN0=
 			</data>
 		</dict>
 		<key>Headers/GMSMarker.h</key>
@@ -2278,6 +2349,34 @@
 			<key>hash2</key>
 			<data>
 			O8MvvK3EUunx3JCA1pW1KQ4ph7zme75QRwIVQ8jytoE=
+			</data>
+		</dict>
+		<key>Headers/GMSPinImage.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c/jjT0kaVA0JCRkqNKlf9YIPf+ohhirMnltWhLpFY/g=
+			</data>
+		</dict>
+		<key>Headers/GMSPinImageGlyph.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AfbjTv1z68GGl/Og51UoOhiEOZCuNxrDqOblSHm0hAo=
+			</data>
+		</dict>
+		<key>Headers/GMSPinImageOptions.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eGyc8n/THS5a5tzAbmTx3Ut3I39/QHvKdT6Pp4Lxr/s=
+			</data>
+		</dict>
+		<key>Headers/GMSPlaceFeature.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BY8flr4FlfFAuigpvGfdMCmZCidrSHMaA14CQxwaLBA=
 			</data>
 		</dict>
 		<key>Headers/GMSPolygon.h</key>
