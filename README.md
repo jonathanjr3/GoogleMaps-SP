@@ -1,4 +1,8 @@
 # GoogleMaps Swift Package
+### This package has been archived since google has officially added support for swift package manager for the maps and places SDK, you can find them here:
+- [Google Maps SDK](https://github.com/googlemaps/ios-maps-sdk.git)
+- [Google Places SDK](https://github.com/googlemaps/ios-places-sdk.git)
+
 ### Compatible with Apple Silicon Mac (i.e: Runs in Simulators without the need of Rosetta)
 
 ## Requirements
